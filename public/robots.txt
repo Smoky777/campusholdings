@@ -1,0 +1,4 @@
+# Campus Holding SA — private institution.
+# The site must not appear in search engines. Direct address only.
+User-agent: *
+Disallow: /
